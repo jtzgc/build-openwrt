@@ -16,4 +16,4 @@
 sed -i '$a src-git helloworld https://github.com/fw876/helloworld.git' feeds.conf.default
 sed -i '$a src-git passwall https://github.com/xiaorouji/openwrt-passwall' feeds.conf.default
 sed -i '$a src-git luci_passwall https://github.com/xiaorouji/openwrt-passwall.git;luci' feeds.conf.default
-sed -i '$a src-git mosdns https://github.com/sbwml/luci-app-mosdns' feeds.conf.default
+sed -i '$a src-git mosdns https://github.com/QiuSimons/openwrt-mos' feeds.conf.default
